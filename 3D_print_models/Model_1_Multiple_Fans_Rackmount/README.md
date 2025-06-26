@@ -7,8 +7,9 @@ This is a 1U rackmount for your DeskPi rackmate T1 or T2, it will hold 6 PCs 401
 * Screw hole size:  M2.5 (2.5mm) 
 
 ## Gallery 
-![01](./imgs/Multiple Fans rack mount for DeskPi rackmate T1T2.jpg)
+![01](./imgs/Fan_shelf_05.jpg)
 ![02](./imgs/Fan_shelf_01.png)
+![03](./imgs/Fan_shelf_02.png)
 
 ## Models
 
