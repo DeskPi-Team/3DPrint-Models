@@ -1,0 +1,16 @@
+# Multiple Fans rack mount for DeskPi rackmate T1/T2 
+
+## Description
+
+This is a 1U rackmount for your DeskPi rackmate T1 or T2, it will hold 6 PCs 4010 Fan. 
+* Fan size :  40 x 40 x 10 mm
+* Screw hole size:  M2.5 (2.5mm) 
+
+## Gallery 
+![01](./imgs/Multiple Fans rack mount for DeskPi rackmate T1T2.jpg)
+![02](./imgs/Fan_shelf_01.png)
+
+## Models
+
+* [FreeCAD source file](./models/DeskPi_Rackmate_Fan_blade.FCStd)
+* [3D print .3mf file ](./models/DeskPi_Rackmate_Fan_blade.3mf)
