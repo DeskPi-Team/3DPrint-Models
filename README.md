@@ -3,7 +3,7 @@
 
 ## Gallery
 
-[![pic1](./3D_print_models/Model_10_Acer_Veriton_C655_Rackmount/imgs/acer_rackmount_main.jpg "Pic1" width="200" height="150")](https://github.com/DeskPi-Team/3DPrint-Models/tree/main/3D_print_models/Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf)
+[![pic1](./3D_print_models/Model_10_Acer_Veriton_C655_Rackmount/imgs/acer_rackmount_main.jpg "Pic1" width="200" height="150")](https://github.com/DeskPi-Team/3DPrint-Models/tree/main/3D_print_models/Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf)]
 
 
 ## Architecture 
