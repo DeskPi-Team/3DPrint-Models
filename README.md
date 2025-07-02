@@ -1,10 +1,12 @@
 # 3DPrint-Models
 3D models for DeskPi Rackmate T series
 
-## Gallery
+## Download Chart 
 
-[![pic1](./3D_print_models/Model_10_Acer_Veriton_C655_Rackmount/imgs/acer_rackmount_main.jpg "Pic1" width="200" height="150")](https://github.com/DeskPi-Team/3DPrint-Models/tree/main/3D_print_models/Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf)]
-
+| Thumbnails | 3D model Download URL|
+| ----------- | ----------- |
+| ![1](./3D_print_models/Model_1_Multiple_Fans_Rackmount/imgs/thum_Fan_shelf_01.png) |[3mf file](./3D_print_models/Model_1_Multiple_Fans_Rackmount/models/DeskPi_Rackmate_Fan_blade.3mf)       |
+| ![1](./3D_print_models/Model_1_Multiple_Fans_Rackmount/imgs/thum_Fan_shelf_01.png) |[3mf file](./3D_print_models/Model_1_Multiple_Fans_Rackmount/models/DeskPi_Rackmate_Fan_blade.3mf)       |
 
 ## Architecture 
 <pre>
