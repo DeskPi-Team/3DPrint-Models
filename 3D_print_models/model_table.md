@@ -1,10 +1,5 @@
-# 3DPrint-Models
-3D models for DeskPi Rackmate T series
-
-## Download Chart 
-
-| Preview | 3D model Download URL|
-| ----------- | ----------- |
+| Preview | Download |
+|---------|----------|
 | ![Model 10](Model_10_Acer_Veriton_C655_Rackmount/imgs/thumbnails/acer_rackmount_001_thumbnail.png) | [3mf](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf) [3mf](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf) [FCStd](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series.FCStd) [FCStd](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series.FCStd) |
 | ![Model 10](Model_10_Acer_Veriton_C655_Rackmount/imgs/thumbnails/acer_rackmount_002_thumbnail.png) | [3mf](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf) [3mf](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf) [FCStd](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series.FCStd) [FCStd](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series.FCStd) |
 | ![Model 10](Model_10_Acer_Veriton_C655_Rackmount/imgs/thumbnails/acer_rackmount_003_thumbnail.png) | [3mf](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf) [3mf](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series-BodyFillet002.3mf) [FCStd](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series.FCStd) [FCStd](Model_10_Acer_Veriton_C655_Rackmount/models/acer_veriton_C655_rackmount_for_DeskPi_rackmate_T_series.FCStd) |
@@ -98,29 +93,3 @@
 | ![Model 9](Model_9_NEC_PC_MJ25MCZGT_Rackmount/imgs/thumbnails/NEC_PC_RACKMOUNT_DESKPRACKMATE004_thumbnail.png) | [3mf](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.3mf) [3mf](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.3mf) [FCStd](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT.FCStd) [FCStd](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT.FCStd) [stl](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.stl) [stl](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.stl) [step](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.step) [step](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.step) |
 | ![Model 9](Model_9_NEC_PC_MJ25MCZGT_Rackmount/imgs/thumbnails/NEC_PC_RACKMOUNT_DESKPRACKMATE005_thumbnail.png) | [3mf](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.3mf) [3mf](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.3mf) [FCStd](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT.FCStd) [FCStd](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT.FCStd) [stl](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.stl) [stl](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.stl) [step](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.step) [step](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.step) |
 | ![Model 9](Model_9_NEC_PC_MJ25MCZGT_Rackmount/imgs/thumbnails/NEC_PC_RACKMOUNT_DESKPRACKMATE006_thumbnail.png) | [3mf](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.3mf) [3mf](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.3mf) [FCStd](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT.FCStd) [FCStd](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT.FCStd) [stl](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.stl) [stl](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.stl) [step](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.step) [step](Model_9_NEC_PC_MJ25MCZGT_Rackmount/models/Rackmount_for_NEC_PC_MK32VCZGT-BodyPocket014.step) |
-
-## Architecture 
-<pre>
-3D_print_models
-├── convert.sh
-├── Model_10_Acer_Veriton_C655_Rackmount
-├── Model_11_Mac_Mini_holder
-├── Model_12_2xHDDC_Heading_Data_Center_Rackmount
-├── Model_13_DELL_Optiplex_3040_Rackmount
-├── Model_14_LCD2004_With_Fan_holder
-├── Model_15_4xHD_Cluster_Rackmount
-├── Model_16_DeskPi_Pro_Shelf
-├── Model_17_2xRPi5_tray
-├── Model_18_HP_MP9_1U_10_Inch_Rackmount
-├── Model_19_7_Inch_Portable_Capacitive_touch_screen_case
-├── Model_1_Multiple_Fans_Rackmount
-├── Model_2_2xIntel_NUC_Mini_PC_with_Fan_rackmount
-├── Model_3_KVM_Switch_Rackmount
-├── Model_4_Cable_holder
-├── Model_5_SW1010_10Ports_Switch_RackMount
-├── Model_6_1U_TP_LINK_TL_SF1008_Switch_Rackmount
-├── Model_7_1U_Blank_Panel
-├── Model_8_7-Inch_52Pi_Portable_Touch_Screen_Rackmount
-└── Model_9_NEC_PC_MJ25MCZGT_Rackmount
-</pre>
-
