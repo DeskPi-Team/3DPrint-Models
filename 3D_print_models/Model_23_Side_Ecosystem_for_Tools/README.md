@@ -10,7 +10,7 @@ While retaining the strength of its metal frame and the convenience of dual hand
 
 ## Gallery 
 
-![001](./imgs/DP-0054  TT sideboard 01.jpg)
+![001](./imgs/DP-0054_TT_sizeboard_01.jpg)
 
 ![002](./imgs/DP-0054  TT sideboard 02.jpg)
 
