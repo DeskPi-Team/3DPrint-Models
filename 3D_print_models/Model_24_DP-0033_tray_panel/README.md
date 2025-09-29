@@ -10,7 +10,6 @@ It is a tray Panel for DeskPi KL-P24 Micro HDMI to HDMI Adapter Board for Raspbe
 ## Gallery 
 
 ![001](./imgs/dp-0033-01.jpg)
-![002](./imgs/dp-0033-02.jpg)
 ![003](./imgs/dp-0033-03.jpg)
 ![004](./imgs/dp-0033-04.jpg)
 
