@@ -10,39 +10,23 @@ While retaining the strength of its metal frame and the convenience of dual hand
 
 ## Gallery 
 
-![001](./imgs/DP-0054_TT_sizeboard_01.jpg)
-
-![002](./imgs/DP-0054  TT sideboard 02.jpg)
-
-![003](./imgs/DP-0054  TT sideboard 03.jpg)
-
-![004](./imgs/DP-0054  TT sideboard 04.jpg)
-
-![005](./imgs/DP-0054  TT sideboard 05.jpg)
-
-![006](./imgs/DP-0054  TT sideboard 06.jpg)
-
-![007](./imgs/DP-0054  TT sideboard 07.jpg)
-
-![008](./imgs/DP-0054  TT sideboard accessories 01.jpg)
-
-![009](./imgs/DP-0054  TT sideboard accessories 02.jpg)
-
-![010](./imgs/DP-0054  TT sideboard accessories 03.jpg)
-
-![011](./imgs/DP-0054  TT sideboard black with items 01.jpg)
-    
-![012](./imgs/DP-0054  TT sideboard black with items 02.jpg)
-
-![013](./imgs/DP-0054  TT sideboard black with items 03.jpg)
-    
-![014](./imgs/DP-0054  TT sideboard black with items 04.jpg)
-
-![015](./imgs/DP-0054  TT sideboard black with items 05.jpg)
-
-![016](./imgs/DP-0054  TT sideboard silver with items 01.jpg)
-
-![017](./imgs/DP-0054  TT sideboard silver with items 02.jpg)
+![001](DP-0054__TT_sideboard_01.jpg)
+![002](DP-0054__TT_sideboard_02.jpg)
+![003](DP-0054__TT_sideboard_03.jpg)
+![004](DP-0054__TT_sideboard_04.jpg)
+![005](DP-0054__TT_sideboard_05.jpg)
+![006](DP-0054__TT_sideboard_06.jpg)
+![007](DP-0054__TT_sideboard_07.jpg)
+![008](DP-0054__TT_sideboard_accessories_01.jpg)
+![009](DP-0054__TT_sideboard_accessories_02.jpg)
+![010](DP-0054__TT_sideboard_accessories_03.jpg)
+![011](DP-0054__TT_sideboard_black_with_items_01.jpg)
+![012](DP-0054__TT_sideboard_black_with_items_02.jpg)
+![013](DP-0054__TT_sideboard_black_with_items_03.jpg)
+![014](DP-0054__TT_sideboard_black_with_items_04.jpg)
+![015](DP-0054__TT_sideboard_black_with_items_05.jpg)
+![016](DP-0054__TT_sideboard_silver_with_items_01.jpg)
+![017](DP-0054__TT_sideboard_silver_with_items_02.jpg)
 
 ## Visit print.deskpi.com 
 * [print.deskpi.com](https://print.deskpi.com)
